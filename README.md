@@ -1,11 +1,11 @@
 # agrofims_rcode
 
 # NOTE
-AgroFIMS New Repository - New WebFramework
+**Important note:** Do not use this package, it's still under development :construction: 
 
 # AGROFIMS
 
-Repository for the main application (app) of AGROFIMS. 
+The aim of this repository is to setup r-classes and r-functions in order to separate the logic from UI.
 
 ## Overview
 
